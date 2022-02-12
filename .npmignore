@@ -1,0 +1,10 @@
+# Avoid env testfile to be published
+.env
+
+# avoid src files
+src/
+tsconfig.json
+
+# Don't include vscode specific files
+.vscode/
+
