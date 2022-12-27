@@ -14,7 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/bchanudet/bankin2influxdb.git"
   },
-  "keywords": ["bankin", "influxdb"],
+  "keywords": [
+    "bankin",
+    "influxdb"
+  ],
   "author": "Benjamin Chanudet",
   "license": "MIT",
   "bugs": {
